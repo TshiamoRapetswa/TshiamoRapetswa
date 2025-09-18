@@ -36,7 +36,7 @@ To secure networks, investigate threats, and defend digital systems from the Mat
 
 | Project                         | Description                                 | Tools Used               |
 |---------------------------------|---------------------------------------------|--------------------------|
-| **TryHackMe: Blue Team Basics** | Investigated brute-force login logs         | Splunk, Windows Event Viewer |
+| **Home Lab Setup**              | Investigated brute-force login logs         | Oracle VirtualBox, Microsoft Windows 10 |
 | **CyberDefenders: Malware-001** | Analyzed malicious activity using Zeek      | Zeek, Sysmon, Wireshark  |
 | **Incident Playbooks**          | Created playbooks for ransomware response   | Markdown, MITRE ATT&CK   |
 | **Detection Rules Repo**        | Built custom Sigma detection rules          | Sigma, YARA              |
