@@ -1,7 +1,7 @@
 # 🟢 SYSTEMS ONLINE...
 
 <h1 align="center">👾 Welcome to Tshiamo Rapetswa's Terminal</h1>
-<p align="center"><i>Final-year Systems Development Student | SOC Analyst in Training | Blue Team Operator</i></p>
+<p align="center"><i>Systems Development  | Full-Stack Developer | Java | PHP | MySQL | HTML/CSS/JS</i></p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGMwd3p0b2JmYmFhemNiMG9pa2k3dDNmbXdkdmhnYnI3NHFoMWZqeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif" width="400" alt="Matrix Rain">
@@ -12,70 +12,14 @@
 ## 🧠 INITIATING: IDENTITY
 ```bash
 > whoami
-Aspiring SOC Analyst | Cybersecurity Enthusiast | Systems Development Student
+Systems Development Graduate | Full Stack Developer | Cybersecurity Enthusiast
 > location
-Pretoria, South Africa 🇿🇦
+North West, South Africa 🇿🇦
 > mission
-To secure networks, investigate threats, and defend digital systems from the Matrix of chaos.
+I am committed to building efficient, secure, and user‑friendly systems by leveraging my skills in Java, MySQL, PHP, JavaScript, CSS, and HTML. My goal is to create projects that combine strong backend logic with clean, responsive front‑end design, while continuously learning and contributing to the developer community.
 ```
 
----
 
-## 🔎 CURRENT MODULES
-```yaml
-- 🔐 Security+ (via Systems Development curriculum)
-- 🧑🏾‍💻 A+ (via Systems Development curriculum)
-- 👨🏾‍💻 TestOut Ethical Hacker Pro (in progress)
-- 🖥️ SOC & Blue Team Labs (TryHackMe, CyberDefenders) -> SOON TO BEGIN
-- 🧪 Home SOC Lab Setup (Splunk, Zeek, Sysmon, Sigma Rules) -> SOON TO BEGIN
-```
-
----
-
-## 🗂️ SELECTED MISSIONS
-
-| Project                         | Description                                 | Tools Used               |
-|---------------------------------|---------------------------------------------|--------------------------|
-| **Home Lab Setup**              | Explore Windows Lab Workspace (desktop,taskbar, file explorer)         | Oracle VirtualBox, Microsoft Windows 10 |
-| **CyberDefenders: Malware-001** | Analyzed malicious activity using Zeek      | Zeek, Sysmon, Wireshark  |
-| **Incident Playbooks**          | Created playbooks for ransomware response   | Markdown, MITRE ATT&CK   |
-| **Detection Rules Repo**        | Built custom Sigma detection rules          | Sigma, YARA              |
-
-🔗 [Explore Portfolio Repo »](https://github.com/TshiamoRapetswa/Cybersecurity-Portfolio)
-
----
-
-## 🛠️ TOOLS IN MY ARSENAL
-
-```bash
-> load arsenal
-
-💾 Operating Systems
-🟩 Kali Linux  🟢 Windows  🟩 Ubuntu  🟢 Parrot OS
-
-🔍 Monitoring & Detection
-🟩 Wireshark  🟢 Sysmon  🟩 Zeek  🟢 Process Hacker  🟩 OSQuery
-
-🛡️ SIEM & Logging
-🟢 Splunk  🟩 ELK Stack  🟢 Graylog
-
-🔐 Security & Analysis Tools
-🟩 Burp Suite  🟢 Nmap  🟩 OpenVAS  🟢 Nessus  🟩 YARA  🟢 Sigma
-
-🧠 Threat Intelligence
-🟩 MITRE ATT&CK  🟢 VirusTotal  🟩 Shodan  🟢 AbuseIPDB
-
-📦 Virtualization / Lab
-🟢 VirtualBox  🟩 VMware  🟢 Docker  🟩 pfsense
-
-📁 File Analysis & Reversing
-🟢 Ghidra  🟩 PEStudio  🟢 HxD  🟩 CyberChef
-
-> Matrix environment initialized.
-> Awaiting next mission...
-```
-
----
 
 ## 📬 CONTACT ME
 
