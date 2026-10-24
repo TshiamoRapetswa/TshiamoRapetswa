@@ -1,5 +1,5 @@
 # 💫 About Me:
-🟩 Systems Development Graduate (2025)  <br>🛡️ Aspiring Cybersecurity Analyst  <br>🖥️ Future Support Technician 
+🟩 Systems Development Graduate (2025)  <br>🖥️ Future Support Technician  <br>🛡️ Aspiring Cybersecurity Analyst  <br>
 
 
 ## 🌐 Socials:
